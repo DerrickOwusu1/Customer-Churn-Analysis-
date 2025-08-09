@@ -27,13 +27,6 @@ Customers face elevated churn risk in months 1-6:
 2.Months 2-6: 40-60% churn rates with high volatility
 3.Stabilization occurs around month 24+ (sub-10% churn rates)
 
-## Revenue vs. Retention Dynamics
-<img width="1571" height="782" alt="image" src="https://github.com/user-attachments/assets/7a220b29-86fe-4be9-afb0-f33562da1062" />
-
-Pricing Strategy Implications:
-1.Higher monthly charges ($60-100) correlate with increased churn likelihood
-2.Sweet spot appears to be $40-60 monthly charges for optimal retention
-3.Customers paying $0-20 show mixed retention (likely promotional/trial customers)
 
 ## Long-term Customer Value 
 <img width="838" height="251" alt="image" src="https://github.com/user-attachments/assets/31f8ac38-e057-40b5-891b-b515082fa8bc" />
@@ -41,3 +34,15 @@ Pricing Strategy Implications:
 Tenure-Revenue Relationship:
 1.Customers with 24+ month tenure show minimal churn (<10%)
 2.Revenue stability increases significantly after the 12-month mark
+
+
+## Revenue vs. Retention Dynamics
+<img width="1571" height="782" alt="image" src="https://github.com/user-attachments/assets/7a220b29-86fe-4be9-afb0-f33562da1062" />
+
+Pricing Strategy Implications:
+1.Higher monthly charges ($60-100) correlate with increased churn likelihood.
+2.Sweet spot appears to be $40-60 monthly charges for optimal retention
+3.Customers paying $0-20 show mixed retention (likely promotional/trial customers)
+
+
+
